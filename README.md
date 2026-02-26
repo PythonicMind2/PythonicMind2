@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Abdul Razzaq 👋
+# Hi, I'm Mohammed Abdul Razzaq 👋 
 
 🎓 Engineering student at Methodist College of Engineering & Technology, Hyderabad  
 🤖 Passionate about AI & helping others grow in tech  
