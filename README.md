@@ -6,7 +6,7 @@
 🌐 Co-Organizer at **GDSC MCET**  
 🐍 Python Mentor | Startup Founding Member  
 
-### 🧠 Certifications
+### 📄 Certifications
 - Generative AI Leader — Google Cloud  
 - Machine Learning with Python — IBM  
 - Generative AI for Software Development — IBM  
