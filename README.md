@@ -7,11 +7,11 @@
 🐍 Python Mentor | Startup Founding Member  
 
 ### 🧠 Certifications
+- Generative AI Leader — Google Cloud  
 - Machine Learning with Python — IBM  
 - Generative AI for Software Development — IBM  
 - Generative AI Applications — IBM  
 - Build RAG Applications — IBM  
-- Generative AI Leader — Google Cloud  
 
 ### 🛠️ What I'm working on
 - Building AI-powered tools and desktop apps  
