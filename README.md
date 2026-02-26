@@ -18,3 +18,4 @@
 - Teaching and mentoring others in AI & Python  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-abdul-razzaq-201b3a334/)
+🔗[Youtube](https://www.youtube.com/@PythonicMind2)
