@@ -4,7 +4,7 @@
 🤖 Passionate about AI & helping others grow in tech  
 🏢 Founder of **Harfa Institution of AI**  
 🌐 Co-Organizer at **GDSC MCET**  
-🐍 Python Mentor | Startup Founding Member  
+🐍 Python Mentor 
 
 ### 📄 Certifications
 - Generative AI Leader — Google Cloud  
