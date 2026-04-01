@@ -7,7 +7,8 @@
 🐍 Python Mentor 
 
 ### 📄 Certifications
-- Generative AI Leader — Google Cloud  
+- Generative AI Leader — Google Cloud
+- Google AI specialization - Google
 - Machine Learning with Python — IBM  
 - Generative AI for Software Development — IBM  
 - Generative AI Applications — IBM  
