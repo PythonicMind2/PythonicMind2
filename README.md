@@ -56,7 +56,7 @@ I'm an AI engineer working on real-world automation, the kind that removes work 
 Chrome Extension that scans any web form, sends the questions to Gemini 2.5 Flash, and fills answers automatically. Works on Google Forms, NPTEL, Moodle, and job applications. Handles dynamic web apps, CSP restrictions, and login-protected pages.
 
 **Tech:** Manifest V3 · Gemini API · Supabase · JavaScript · DOM Manipulation · Prompt Engineering
-🔗 [Live demo](#) · [Repo](#)
+
 
 ---
 
@@ -64,7 +64,7 @@ Chrome Extension that scans any web form, sends the questions to Gemini 2.5 Flas
 AI-powered social media platform that reduced content creation and publishing time by ~60%.
 
 **Tech:** React · Vite · Google Gemini API · Make.com · Webhooks · Google Sheets
-🔗 [Repo](#)
+
 
 ---
 
@@ -72,7 +72,7 @@ AI-powered social media platform that reduced content creation and publishing ti
 Python desktop app that reduced manual file-sorting time by ~85% and reclaimed ~20% of disk space via recursive scanning and rule-based categorization across 60+ file types.
 
 **Tech:** Python · Tkinter
-🔗 [Repo](#)
+
 
 ---
 
