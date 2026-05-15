@@ -17,7 +17,7 @@ AI engineer at TarsLab · building automation tools that actually ship · founde
 
 ## About
 
-I'm an AI engineer working at TarsLab on real-world automation — the kind that removes work people actually hate doing. Outside of that, I founded Ascnd AI to help businesses grow by automating their slow, manual processes. I also mentor students in Python and AI, and I'm a Gemini Student Ambassador. I like building things that ship, not just prototypes that look good in demos.
+I'm an AI engineer working on real-world automation, the kind that removes work people actually hate doing. Outside of that, I founded Ascnd AI to help businesses grow by automating their slow, manual processes. I also mentor students in Python and AI, and I'm a Gemini Student Ambassador. I like building things that ship, not just prototypes that look good in demos.
 
 ---
 
@@ -26,7 +26,7 @@ I'm an AI engineer working at TarsLab on real-world automation — the kind that
 **FormFill AI** — Chrome Extension that uses Gemini 2.5 Flash to auto-fill web forms on Google Forms, NPTEL, Moodle, and job applications.
 `MV3` `Gemini API` `Supabase` `Netlify`
 
-> Open to freelance AI automation work — reach me at pythonicmind2@gmail.com
+> Open to jobs and freelance AI automation work — reach me at pythonicmind2@gmail.com
 
 ---
 
@@ -94,9 +94,9 @@ Campus representative for Google's Gemini AI ecosystem.
 
 ## Certifications
 
-- **Google AI Specialization** — Google *(Mar 2026)*
-- **IBM RAG and Agentic AI** — IBM *(Feb 2026)*
-- **Generative AI Leader** — Google Cloud *(Jan 2026)*
+- **Google AI Specialization** - Google *(Mar 2026)*
+- **IBM RAG and Agentic AI** - IBM *(Feb 2026)*
+- **Generative AI Leader** - Google Cloud *(Jan 2026)*
 
 ---
 
