@@ -4,7 +4,7 @@
 
 # Mohammed Abdul Razzaq
 
-AI engineer at TarsLab · building automation tools that actually ship · founder, mentor, Gemini Student Ambassador
+AI engineer · building automation tools that actually ship · founder, mentor, Gemini Student Ambassador
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrazzaq26)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@PythonicMind2)
