@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+TarsLab;Founder+%40+Ascnd+AI;Gemini+Student+Ambassador;Building+tools+that+actually+ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+Engineer;Founder+%40+Ascnd+AI;Gemini+Student+Ambassador;Building+tools+that+actually+ship" alt="Typing SVG" />
 </p>
 
 # Mohammed Abdul Razzaq
